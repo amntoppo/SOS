@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775855056807",
+    "firebase_url": "https://saveourselves-e68c1.firebaseio.com",
+    "project_id": "saveourselves-e68c1",
+    "storage_bucket": "saveourselves-e68c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775855056807:android:dfd770c592e0c5e8c6f882",
+        "android_client_info": {
+          "package_name": "com.amn.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775855056807-g1dnv2318blm0m3emjslctepqm6j341e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLpk9WSMjnIrlW2fj5p6CW9hx019njTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775855056807-g1dnv2318blm0m3emjslctepqm6j341e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
